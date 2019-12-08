@@ -1,0 +1,216 @@
+en_us({
+	"basicInfo": {
+		"name": "Lin Sikai ♂ Male",
+		"title": "☆ JAVA ☆ Master of Computing Science ☆ Background development",
+		"profileInfo": "The undergraduate major is first, like algorithms, and have achieved certain results, be sent to Beijing Jiaotong Computer Academy, is expected to graduate in 2021. The Xi'an ACM National Invitational Tournament won the Northwest Division Bronze Award in the Northwest Division in 2018, and the National Team's Third Prize in the Ladder Team. It also won the First Prize in the Northwest District in the Ladder Team. Ladder Team First Class Award Northwest District Eleventh Challenge Cup College Students Extracurricular Academic Science and Technology Works Competition Second Prize.",
+		"email": "673052752@qq.com",
+		"mobile": "18813020121",
+		"website": "https://blog.csdn.net/qq_39410381",
+		"authorTitle": "Author",
+		"authorValue": "Sky",
+		"sourceCode": "Source Code"
+	},
+	"experiences": {
+		"navTitle": "Experiences",
+		"sectionTitle": "Experiences",
+		"workExperiences": [{
+			"place": "Beijing Youyu Technology Co., Ltd. (100-1000 people)",
+			"location": "Beijing",
+			"title": "Back Development",
+			"industry": "Software/Service Taijivider",
+			"time": "2019.4 — 2019.9",	
+			"jobDesc": "4 months mainly involved in a quantitative investment project, the main thing is the event engine."
+		}, {
+			"place": "Sineng (Beijing) Consulting Co., Ltd. (50-150 people)",
+			"location": "Beijing",
+			"title": "Intern Department",
+			"industry": "Internet / Block Trade",
+			"time": "2019.3—2019.4",
+			"jobDesc": "Familiar with the use of the Entrade system and the configuration function in the system, but cannot know how to implement the code (because the company requires access to non-employees to access the code), and understand the basic process and rules of China's oil import and export."
+		}, {
+			"place": "Lanzhou Fushunda Information Technology Co., Ltd. (10-50 people)",
+			"location": "Lanzhou",
+			"title": "Intern Development",
+			"industry": "Internet / Service Provider",
+			"time": "2018.10—2019.1",
+			"jobDesc": "1. Realize the design and implementation of the background management interface 2. Realize the realization of some functions of the background management."
+		}]
+	},
+	"projects": {
+		"navTitle": "Projects",
+		"sectionTitle": "Projects",
+		"projectEnv": "environment",
+		"projectDesc": "Project Description",
+		"responsibilityDesc": "Responsibility",
+		"projectExperiences": [{
+			"name": "Quantitative platform development",
+			"location": "Beijing",
+			"title": "Technical Department",
+			"industry": "Software/Service Taijivider",
+			"time": "2019.4 — 2019.9",	
+			"env": "Python + Docker + redis …",	
+			"desc": "Based on some existing quantitative platforms, build our company's quantitative trading platform, and launch some special features, such as converting the user's script language to python for trading.",
+			"responsibility": "My work is mainly in the development of event engines."
+		}, {
+			"name": "Lanzhou wisdom party builds cloud platform",
+			"location": "Lanzhou",
+			"title": "Intern Development",
+			"industry": "Internet / Service Provider",
+			"time": "2018.10—2019.1",
+			"env": "spring、springMVC、freemarker、redis、hibernate",	
+			"desc": "The main purpose of the project is to support the party building work in Lanzhou. The most important thing is to realize the application process of party members..",
+			"responsibility": "I am mainly responsible for the design and implementation of some functions of the background management interface."
+		}]
+	},
+	"education": {
+		"navTitle": "Education",
+		"sectionTitle": "Education",
+		"educations": [{
+			"educationBody": "Beijing Jiaotong University",
+			"degree": "University / Master",
+			"time": "2019 - now",
+			"desc": "Studied at Beijing Jiaotong University, School of Computer and Information Technology, Computer Technology."
+		}, {
+			"educationBody": "Lanzhou Jiaotong University",
+			"degree": "Senior Middle School Stuent",
+			"time": "2001 - 2007",
+			"desc": "Study at Shanxi Huashan Senior Middle School and graduated in 2007."
+		}, {
+			"educationBody": "Sichuan Mianzhu Middle School",
+			"degree": "middle School student",
+			"time": "2012 - 2015",
+			"desc": "Studying in Mianzhu Middle School, 6 classes for half a year, 13 classes (parallel classes) 2 and a half years"
+		}]
+	},
+	"skills": {
+		"navTitle": "Skills",
+		"sectionTitle": "Professional Skills",
+		"topSkills": [{
+			"name": "Java",
+			"percent": "98",
+			"level": "Expert, 5+ years",
+			"time": "2016 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Spring Boot",
+			"percent": "10",
+			"level": "Expert, 0+ years",
+			"time": "2016 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Spring Cloud",
+			"percent": "5",
+			"level": "Expert, 0+ years",
+			"time": "2016 - Present",
+			"desc": "desc here."
+		}],
+		"otherSkills": [{
+			"name": "HTML5"
+		}, {
+			"name": "CSS3"
+		}],
+		"skillItems": [{
+			"name": "☆ Know well about Java EE System and can choose the appropriate tools to meet the business requirement."
+		}, {
+			"name": "☆ Expert in Java，familiar with Java Memory，JVM optimize，DB optimize，familiar with Design Patterns."
+		}, {
+			"name": "☆ Skilled in use of  Spring Boot, Spring Cloud, Spring MVC, Spring Security, MyBatis , Spring Data JPA."
+		}, {
+			"name": "☆ Have a good charge of Vue.js, Element UI, HTML, CSS, JavaScript, AJAX, JQuery, axios, JSON and son."
+		}, {
+			"name": "☆ Have a profound understanding of Agile Development and have good practice of agile in project before."
+		}, {
+			"name": "☆ Know well about database of MySQL, oracle, No SQL of Mongo DB, Cache of Redis and MQ of RabbitMQ."
+		}, {
+			"name": "☆ Know about the theory of Spring IOC and AOP, the theory of MyBatis, JPA, the theory of Tomcat Server."
+		}, {
+			"name": "☆ Familiar with the UML Modeling and the popular development mode, familiar with the use of Linux System."
+		}, {
+			"name": "☆ Know about the of knowledge of IaaS, PaaS, SaaS and the theory and usage of docker virtual technology."
+		}, {
+			"name": "☆ Familiar with the C and C++ programming language, have a good use of the various third part. technology."
+		}]
+	},
+	"portfolio": {
+		"navTitle": "Portfolio",
+		"sectionTitle": "Portfolio",
+		"categories": [{
+			"name": "backend",
+			"title": "Back-end",
+			"desc": "Back-end"
+		}, {
+			"name": "frontend",
+			"title": "Front-end",
+			"desc": "Front-end"
+		}],
+		"portfolios": [{
+			"img": "assets/images/portfolio/ployun.png",
+			"title": "taiji cloud",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "A cloud platform for traffic and transportation industry.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "kitty [Open Source]",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "Auth Mng System base on Spring Boot and Spring Cloud.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-2.jpg",
+			"title": "kitty-ui [Open Source]",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "Auth Mng System web base on Vue.js and Element UI.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-3.jpg",
+			"title": "brilliant [Open Source]",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "Help designer and programmer build a brilliant online resume.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-4.jpg",
+			"title": "Huashan System",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "supply optimize system base uwb and scan technology.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-5.jpg",
+			"title": "Songshanshaolin",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "Java EE GUI Modeling Platform, modeling is devoloping.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-6.jpg",
+			"title": "Liumai Visual Platform",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "Domain Modeling Platform, customize GUI Modleing Tools.",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-7.jpg",
+			"title": "Songshans WLAN",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "A WLAN device management and monitor java system.",
+			"url": "#"
+		}]
+	},
+	"contact": {
+		"navTitle": "Contact",
+		"sectionTitle": "Get in Touch",
+		"notice": "I am currently a graduate student at Beijing Jiaotong University, two points and one line: classroom (professional learning)-library (learning background development skills) after-school time: learning background development skills (currently learning mainstream java development mainstream framework, progress completed).",
+		"message": "Drop me a line at",
+		"call": " or call me at",
+		"thanks": "，thanks for visit.",
+		"provideServices": "I can help with the following：",
+		"services": [{
+			"name": "Work as a background development engineer and participate in software project development."
+		}]
+	}
+})

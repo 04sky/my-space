@@ -1,0 +1,215 @@
+zh_cn({
+	"basicInfo": {
+		"name": "蔺思凯 ♂男",
+		"title": "☆ JAVA开发 ☆ 计算科学硕士 ☆ 后台开发",
+		"profileInfo": "本科专业第一，喜欢算法，并取得一定的成绩，保送北交计算机院，预计2021年毕业。2018年西安 ACM 全国邀请赛获得西北赛区铜奖，天梯赛团体全国三等奖，同时获得天梯赛团体西北区一等奖，第九届蓝桥杯 C/C++B 组省赛二等奖2017天梯赛团体西北区一等奖第十一届挑战杯大学生课外学术科技作品竞赛二等奖",
+		"email": "673052752@qq.com",
+		"mobile": "18813020121",
+		"website": "https://blog.csdn.net/qq_39410381",
+		"authorTitle": "作者",
+		"authorValue": "Sky",
+		"sourceCode": "源码下载"
+	},
+	"experiences": {
+		"navTitle": "实习经历",
+		"sectionTitle": "实习经历",
+		"workExperiences": [{
+			"place": "北京有鱼科技有限公司（100-1000人）",
+			"location": "北京",
+			"title": "后台开发实习生 后台开发部",
+			"industry": "计算机软件/服务供应商",
+			"time": "2019.4 — 2019.9",	
+			"jobDesc": "4个月时间主要参与了一个量化投资项目，主要做的东西是事件引擎。"
+		}, {
+			"place": "翌能（北京）咨询有限公司（50-150人）",
+			"location": "北京",
+			"title": "开发实习生 技术部",
+			"industry": "互联网/大宗贸易",
+			"time": "2019.3—2019.4",
+			"jobDesc": "熟习Entrade系统使用以及在系统配置功能，但不能知道代码如何实现（因为公司规定对非入职人员接触代码），了解了中国石油进出口贸易的基本过程和规则等相关内容。"
+		}, {
+			"place": "兰州福顺达信息科技有限公司（10-50人）",
+			"location": "兰州",
+			"title": "开发实习生 开发部",
+			"industry": "互联网/服务供应商",
+			"time": "2018.10—2019.1",
+			"jobDesc": "1.实现后台管理界面的设计实现 2. 实现后台管理部分功能的实现。"
+		}]
+	},
+	"projects": {
+		"navTitle": "项目经验",
+		"sectionTitle": "项目经验",
+		"projectEnv": "技术环境",
+		"projectDesc": "项目描述",
+		"responsibilityDesc": "责任描述",
+		"projectExperiences": [{
+			"name": "量化平台开发",
+			"location": "北京",
+			"title": "后台开发实习生 后台开发部",
+			"industry": "计算机软件/服务供应商",
+			"time": "2019.4 — 2019.9",	
+			"env": "Python + Docker + redis …",	
+			"desc": "仿照现有一些量化平台，打造本公司的量化交易平台，并推出推出一些特色功能，比如讲用户的脚本语言转换成python语言进行交易等操作。",
+			"responsibility": "我的工作主要是是事件引擎的开发。"
+		}, {
+			"name": "兰州市智慧党建云平台",
+			"location": "兰州",
+			"title": "开发实习生 开发部",
+			"industry": "互联网/服务供应商",
+			"time": "2018.10—2019.1",
+			"env": "spring、springMVC、freemarker、redis、hibernate",	
+			"desc": "该项目主要目的是支持兰州的党建工作，最主要的是党员的申请流程实现，其他的包括党员学习中央精神，后台审批，党员考试等等功能。",
+			"responsibility": "我主要负责后台管理界面的部分功能的设计与实现。"
+		}]
+	},
+	"education": {
+		"navTitle": "教育经历",
+		"sectionTitle": "教育经历",
+		"educations": [{
+			"educationBody": "北京交通大学",
+			"degree": "大学/硕士",
+			"time": "2019 - 至今",
+			"desc": "就读于北京交通大学，计算机与信息技术学院，计算机技术方向。"
+		}, {
+			"educationBody": "兰州交通大学",
+			"degree": "大学/本科",
+			"time": "2015 - 2019",
+			"desc": "就读于兰州交通大学，软件工程专业，曾任团支书、班长、社团副部。"
+		}, {
+			"educationBody": "四川省绵竹中学",
+			"degree": "中学生",
+			"time": "2012 - 2015",
+			"desc": "就读于绵竹中学，6班半年，13班（平行班）2年半"
+		}]
+	},
+	"skills": {
+		"navTitle": "专业技能",
+		"sectionTitle": "专业技能",
+		"topSkills": [{
+			"name": "Java",
+			"percent": "50",
+			"level": "Expert, 5+ years",
+			"time": "2016 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Spring Boot",
+			"percent": "10",
+			"level": "Expert, 1+ years",
+			"time": "2019 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Spring Cloud",
+			"percent": "5",
+			"level": "Expert, 0+ years",
+			"time": "2016 - Present",
+			"desc": "desc here."
+		}],
+		"otherSkills": [{
+			"name": "HTML5"
+		}, {
+			"name": "CSS3"
+		}],
+		"skillItems": [{
+			"name": "☆ 掌握JAVA EE体系，知晓JAVA体系中各个领域与层面所需的相关知识与技术，熟知JAVA EE历史发展进程。"
+		}, {
+			"name": "☆ 擅长JAVA语言，理解JAVA内存模型，JVM性能调优，数据库性能调优，对常用设计模式有较为深刻的了解。"
+		}, {
+			"name": "☆ 熟悉前台开发，了解Vue.js、Element UI、HTML、CSS、JavaScript、AJAX、JQuery等主流前端技术的使用。"
+		}, {
+			"name": "☆ 熟悉Eclipse插件开发，熟悉Eclipse平台，熟练掌握RCP相关的SWT、JFACE、GEF、GMF、OSGI等相关技术。"
+		}, {
+			"name": "☆ 熟练掌握MySQL，了解Redis等缓存技术和RabbitMQ等消息中间件。"
+		}, {
+			"name": "☆ 理解Spring IOC与AOP原理，MyBatis、JPA等持久化原理，Tomcat服务器原理，Docker容器技术原理。"
+		}, {
+			"name": "☆ 掌握UML统一建模语言，了解常用的软件开发模式，擅长敏捷开发模式，熟悉Linux环境下常用命令的使用。"
+		}, {
+			"name": "☆ 了解云计算相关知识，掌握IaaS/PaaS/SaaS相关体系，掌握Docker容器虚拟化技术原理、环境搭建与运用。"
+		}, {
+			"name": "☆ 了解C、C++、汇编等语言，掌握DRUID/POI/BEETL/LUCENE/DOM4J/JSON/XSTREAM等等其他第三方技术。"
+		}]
+	},
+	"portfolio": {
+		"navTitle": "作品展示",
+		"sectionTitle": "作品展示",
+		"categories": [{
+			"name": "backend",
+			"title": "Back-end",
+			"desc": "后端项目"
+		}, {
+			"name": "frontend",
+			"title": "Front-end",
+			"desc": "前端项目"
+		}],
+		"portfolios": [{
+			"img": "assets/images/portfolio/ployun.png",
+			"title": "武当云平台",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "专注于航空航天、船舶运输、轨道交通行业的垂直领域云平台。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "kitty [开源项目]",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于Spring Boot和Spring Cloud实现的后台权限管理系统。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-2.jpg",
+			"title": "mango-ui",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "mango 前端，基于 Vue + Element 实现的后台权限管理系统。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-3.jpg",
+			"title": "brilliant",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "帮助专业技术、设计人员快速打造自己优质的个人网站、在线简历。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-4.jpg",
+			"title": "华山智能化工厂",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于无线定位和扫码技术，优化工厂生产流程，实现智能化工厂。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-5.jpg",
+			"title": "峨眉快速开发平台",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于领域建模的JAVA EE可视化建模平台，实现软件开发建模化。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-6.jpg",
+			"title": "六脉可视化建模平台",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于领域建模概念，方便快速打造各种可视化建模工具的建模平台。",
+			"url": "#"
+		}, {
+			"img": "assets/images/portfolio/portfolio-7.jpg",
+			"title": "嵩山少林WLAN网管系统",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "嵩山少林无线网管系统，监控网络设备状态，提供有效监控和管理。",
+			"url": "#"
+		}]
+	},
+	"contact": {
+		"navTitle": "联系方式",
+		"sectionTitle": "联系方式",
+		"notice": "我目前北京交通大学研究生在学，两点一线:教室（专业学习）- 图书馆（学习后台开发技能）课余时间：学习后台开发各项技能（目前学习主流java开发主流框架，进度完成）。",
+		"message": "欢迎给我留言",
+		"call": "或者致电",
+		"thanks": "，感谢您的访问。",
+		"provideServices": "提供服务：",
+		"services": [{
+			"name": "担任后台开发工程师，参加软件项目开发"
+		}]
+	}
+
+})
